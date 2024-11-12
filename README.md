@@ -1,4 +1,24 @@
-# FullCalendar
+# fullcalendar-yarn
+
+testing publishing a fork of fullcalendar using yarn publish
+
+<!--
+try:
+
+1)
+```sh
+yarn publish
+```
+
+2)
+```sh
+# (requires installing pnpm first)
+yarn build
+yarn publish
+```
+-->
+
+## FullCalendar
 
 Full-sized drag & drop calendar in JavaScript
 
