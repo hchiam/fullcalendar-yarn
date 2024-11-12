@@ -2,22 +2,34 @@
 
 testing publishing a fork of fullcalendar using yarn publish
 
-<!--
 try:
 
 1) DIDN'T WORK: 'standard-scripts' is not recognized as an internal or external command
+
 ```sh
 yarn publish
 ```
 
-2)
+then
+
+```sh
+npm i -E fullcalendar-yarn
+```
+
+2) THIS DIDN'T WORK EITHER:
+
 ```sh
 # (requires installing pnpm first)
 pnpm install
 pnpm run build
 yarn publish
 ```
--->
+
+then
+
+```sh
+npm i -E fullcalendar-yarn
+```
 
 ## FullCalendar
 
