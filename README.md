@@ -31,6 +31,13 @@ then
 npm i -E fullcalendar-yarn
 ```
 
+Even trying this:
+
+```sh
+npm i -E @fullcalendar/standard-scripts
+npm i -E fullcalendar-yarn
+```
+
 ## FullCalendar
 
 Full-sized drag & drop calendar in JavaScript
