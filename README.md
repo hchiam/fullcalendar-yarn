@@ -5,7 +5,7 @@ testing publishing a fork of fullcalendar using yarn publish
 <!--
 try:
 
-1)
+1) DIDN'T WORK: 'standard-scripts' is not recognized as an internal or external command
 ```sh
 yarn publish
 ```

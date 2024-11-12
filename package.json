@@ -1,7 +1,7 @@
 {
   "name": "fullcalendar-yarn",
   "description": "testing publishing a fork of fullcalendar using yarn publish",
-  "version": "6.1.15-a",
+  "version": "6.1.15-b",
   "keywords": [
     "calendar",
     "event",
