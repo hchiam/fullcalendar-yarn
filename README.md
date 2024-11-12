@@ -13,7 +13,8 @@ yarn publish
 2)
 ```sh
 # (requires installing pnpm first)
-yarn build
+pnpm install
+pnpm run build
 yarn publish
 ```
 -->
